@@ -32,7 +32,6 @@ def PAddOne(x1, y1, x2, y2, a, m):
 if __name__ == '__main__':
     m = 23
     a = 1
-    b = 1
     P = (3, 10)
 
     points = []
